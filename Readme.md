@@ -9,8 +9,8 @@
 Una plataforma sencilla, rápida y segura, donde se incluyen alertas personalizadas y diseños para mejorar la confianza al realizar cada uno de los tramites, especialmente en las transferencias de dinero donde se permitirá al usuario confirmar que esta llego al destinatario correcto y avisar desde la misma app. También podrá arrepentirse de realizar la transferencia y visualizar la información del saldo antes y después de haber realizado la transacción.
 
 
-#####ETAPAS
-######1. INVESTIGACIÓN
+##### ETAPAS
+###### 1. INVESTIGACIÓN
 	Durante el proceso de investigación nos dedicamos a recopilar toda la información sobre las distintas plataformas, ya sean web y aplicaciones móviles, que actualmente ofrecen como servicios los diversos bancos existentes en el país y en el extranjero.
     
     
@@ -45,7 +45,7 @@ La última parte de la encuesta, trató sobre la experiencia de los clientes cua
 
 *ERROR EN LA TRANSFERENCIA:* Un 94,9%(56 personas) dijeron que nunca han transferido por error y un 5%(3 personas) dijeron que si les paso y que lo solucionaron poniéndose en contacto con la persona a la que transfirieron y les pidieron que devolvieran el dinero.
 
-######2.DEFINICIÓN
+###### 2.DEFINICIÓN
 	En la etapa de definición organizamos la información recopilada y para así lograr tener claridad del producto que desarrollaríamos y cuáles serían los pilares de este. Para eso utilizamos los siguientes procesos:
 
 **a.	User persona**
@@ -62,10 +62,10 @@ La última parte de la encuesta, trató sobre la experiencia de los clientes cua
 ![](https://i.imgur.com/jJ9RDur.png)
 ![](https://i.imgur.com/pOhHpNM.png)
 
-######3. DISEÑO
+###### 3. DISEÑO
 	Proponer el diseño del producto
     
-######4. TESTING
+###### 4. TESTING
 	Comprobar el diseño del producto
 ![](https://i.imgur.com/AaiT3eR.png)![](https://i.imgur.com/31p8bG5.png)![](https://i.imgur.com/H5hfQA7.png)![](https://i.imgur.com/KMozLUx.png)
 ![](https://i.imgur.com/DRSM0Ui.png)![](https://i.imgur.com/m5FWQKs.png)
