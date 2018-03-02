@@ -75,4 +75,3 @@ La última parte de la encuesta, trató sobre la experiencia de los clientes cua
 
 #####INTEGRANTES
 	Natalia Espinoza - Carolina Jarpa
-
