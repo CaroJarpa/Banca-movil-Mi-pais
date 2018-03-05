@@ -39,7 +39,9 @@ Para el proceso de entrevistas cualitativas tuvimos que confeccionar dos guías 
 
 Se realizo una encuesta vía online que fue contestada por 59 personas, separadas en dos tipos de preguntas, cerradas y abiertas, (https://goo.gl/forms/4HcgYhftmv4lIxfQ2)y de la cual pudimos obtener los siguientes resultados:
 
-![](https://i.imgur.com/It39ibu.png)![](https://i.imgur.com/ajslels.png)![](https://i.imgur.com/Kuu5wis.png)![](https://i.imgur.com/L4zNPa3.png)![](https://i.imgur.com/VDOyNYR.png)![](https://i.imgur.com/AJV9ti9.png)
+![](https://i.imgur.com/It39ibu.png)![](https://i.imgur.com/ajslels.png)
+![](https://i.imgur.com/Kuu5wis.png)![](https://i.imgur.com/L4zNPa3.png)
+![](https://i.imgur.com/VDOyNYR.png)![](https://i.imgur.com/AJV9ti9.png)
 
 La segunda parte de respuestas abiertas arrojo lo siguiente:
 
