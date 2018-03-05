@@ -69,11 +69,11 @@ Un 94,9%(56 personas) dijeron que nunca han transferido por error y un 5%(3 pers
 
 ![](https://i.imgur.com/KuTaDna.png)
 
-#### **b.	Affinity map**
+#### **b.	AFFINITY MAP**
 
 ![](https://i.imgur.com/hTilQ9f.jpg)
 
-#### **c.	Problem statement**
+#### **c.	PROBLEM STATEMENT**
 
 ![](https://i.imgur.com/K9DuEzl.png)
 ![](https://i.imgur.com/jJ9RDur.png)
