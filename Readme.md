@@ -1,4 +1,4 @@
-# Banca móvil - Mi país
+# Banco móvil - Mi país
 
 ![](https://i.imgur.com/jNXuLBR.png)
 
@@ -22,7 +22,7 @@ En la etapa del benchamark se realizó la comparación de los servicios ya exist
 
 ##### **PLATAFORMAS DEL BANCO ESTADO**
 
-![](https://i.imgur.com/ynnrzs6.png)![](https://i.imgur.com/7jF6jj2.png)
+![](https://i.imgur.com/ynnrzs6.png)
 ![](https://i.imgur.com/E2YjKLz.png)
 
 #### **PLATAFORMAS DEL BBVA**
@@ -76,19 +76,27 @@ Un 94,9%(56 personas) dijeron que nunca han transferido por error y un 5%(3 pers
 #### **c.	PROBLEM STATEMENT**
 
 ![](https://i.imgur.com/K9DuEzl.png)
+
 ![](https://i.imgur.com/jJ9RDur.png)
+
 ![](https://i.imgur.com/pOhHpNM.png)
 
 ### 3. DISEÑO
-	Proponer el diseño del producto
-    
-### 4. TESTING
-	Comprobar el diseño del producto
-![](https://i.imgur.com/AaiT3eR.png)![](https://i.imgur.com/31p8bG5.png)![](https://i.imgur.com/H5hfQA7.png)![](https://i.imgur.com/KMozLUx.png)
-![](https://i.imgur.com/DRSM0Ui.png)![](https://i.imgur.com/m5FWQKs.png)
-![](https://i.imgur.com/xzMzX1A.png)![](https://i.imgur.com/eFrhQGE.png)
-![](https://i.imgur.com/lJBJYHB.png)![](https://i.imgur.com/2ZmEvhj.png)
-![](https://i.imgur.com/CUfiHHd.png)![](https://i.imgur.com/xDg4jDg.png)
+
+**SKETCH**
+
+La idea de app fue traspasada a un sketch, con el cual pudimos realizar los primeros testeos e ir realizando mejoras. En el enlace se puede ver la primera idea realizada (https://marvelapp.com/40gc26b)
+
+**PROTOTIPO**
+
+Como resultado de los testeos realizados con el sketch, pudimos realizar mejoras en nuestro primer diseño, llegando a nuestro MVP, lo cual se ve reflejado en este enlace:
+
+https://www.figma.com/proto/f7FVLmdAHb2LDEEcFoKblGcA/Banca-digital-Mi-Pais?scaling=contain&node-id=12%3A5
+
+En el siguiente enlace se puede encontrar la version final de nuestro producto, tomando en consideracion todas aquellas mejoras que salieron de la primera prueba.
+
+
+
 
 ##### INTEGRANTES
 	Natalia Espinoza - Carolina Jarpa
