@@ -93,10 +93,5 @@ Como resultado de los testeos realizados con el sketch, pudimos realizar mejoras
 
 https://www.figma.com/proto/f7FVLmdAHb2LDEEcFoKblGcA/Banca-digital-Mi-Pais?scaling=contain&node-id=12%3A5
 
-En el siguiente enlace se puede encontrar la version final de nuestro producto, tomando en consideracion todas aquellas mejoras que salieron de la primera prueba.
-
-
-
-
 ##### INTEGRANTES
 	Natalia Espinoza - Carolina Jarpa
