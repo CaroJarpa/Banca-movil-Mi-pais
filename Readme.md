@@ -1,6 +1,6 @@
 # Banco movil - Mi pais
 
-![](https://i.imgur.com/GwfWWXv.jpg)
+![logo](https://i.imgur.com/GwfWWXv.jpg)
 
 ## EL RETO
 
@@ -95,3 +95,5 @@ https://www.figma.com/proto/f7FVLmdAHb2LDEEcFoKblGcA/Banca-digital-Mi-Pais?scali
 
 ##### INTEGRANTES
 	Natalia Espinoza - Carolina Jarpa
+
+####DESARROLLADO PARA: [LABORATORIA(http://laboratoria.la)]
