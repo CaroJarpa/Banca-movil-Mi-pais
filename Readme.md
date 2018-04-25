@@ -1,6 +1,6 @@
 # Banco movil - Mi pais
 
-![Logo](https://i.imgur.com/ix1WzHK.png)
+![Logo](https://i.imgur.com/G0ybFqm.jpg)
 
 ## EL RETO
 
