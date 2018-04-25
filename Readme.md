@@ -11,28 +11,32 @@ Nuevo banco digital para millenials
 Una plataforma sencilla, rápida y segura, donde se incluyen alertas personalizadas y diseños para mejorar la confianza al realizar cada uno de los tramites, especialmente en las transferencias de dinero donde se permitirá al usuario confirmar que esta llego al destinatario correcto y avisar desde la misma app. También podrá arrepentirse de realizar la transferencia y visualizar la información del saldo antes y después de haber realizado la transacción.
 
 
-## ETAPAS
+## ETAPAS DEL PROYECTO
 
 #### 1. INVESTIGACIÓN
-	Durante el proceso de investigación nos dedicamos a recopilar toda la información sobre las distintas plataformas, ya sean web y aplicaciones móviles, que actualmente ofrecen como servicios los diversos bancos existentes en el país y en el extranjero.
-    
-    
+Durante el proceso de investigación nos dedicamos a recopilar toda la información sobre las distintas plataformas, ya sean web y aplicaciones móviles, que actualmente ofrecen como servicios los diversos bancos existentes en el país y en el extranjero.
+
 #### **a. BENCHMARK**
 En la etapa del benchamark se realizó la comparación de los servicios ya existentes como plataformas web, tomando como ejemplo el banco BBVA y BANCO ESTADO
 
 ##### **PLATAFORMAS DEL BANCO ESTADO**
 
+Con las plataformas del Banco Estado, logramos identificar que se presentan mas problemas al momento de utilizar la aplicación, ya que no pueden agregar a nuevos contactos para realizar transferencias y tampoco tienen seguridad de que las operaciones fueron realizadas con éxito.
+
 ![](https://i.imgur.com/ynnrzs6.png)
+
 ![](https://i.imgur.com/E2YjKLz.png)
 
-#### **PLATAFORMAS DEL BBVA**
+##### **PLATAFORMAS DEL BBVA**
+
+En estas plataformas también identificamos mas problemas con la aplicación que con la plataforma web, ya que existen secciones que no cuentan con la información que los usuarios esperan encontrar.
 
 ![](https://i.imgur.com/aTmltrZ.png)
 ![](https://i.imgur.com/Sk7zl0i.png)
 
 #### **b. ENTREVISTAS**
 
-Para el proceso de entrevistas cualitativas tuvimos que confeccionar dos guías de entrevistas, una que fue el borrador (se testeo y se arreglo) y otra que fue la definitiva(con todas las mejoras del borrador).
+Para el proceso de entrevistas cualitativas tuvimos que confeccionar dos guías de entrevistas, una que fue el borrador (que pudimos testear y modificar) y otra que fue la definitiva(con todas las mejoras del borrador),con el objetivo de lograr conocer a través de que plataformas manejan su dinero.
 
 
 #### **c. ENCUESTAS**
@@ -63,7 +67,7 @@ Un 94,9%(56 personas) dijeron que nunca han transferido por error y un 5%(3 pers
 
 ### 2. DEFINICIÓN
 
-	En la etapa de definición organizamos la información recopilada y para así lograr tener claridad del producto que desarrollaríamos y cuáles serían los pilares de este. Para eso utilizamos los siguientes procesos:
+En la etapa de definición organizamos la información recopilada y para así lograr tener claridad del producto que desarrollaríamos y cuáles serían los pilares de este. Para eso utilizamos los siguientes procesos:
 
 #### **a.	USER PERSONA**
 
@@ -94,6 +98,6 @@ Como resultado de los testeos realizados con el sketch, pudimos realizar mejoras
 https://www.figma.com/proto/f7FVLmdAHb2LDEEcFoKblGcA/Banca-digital-Mi-Pais?scaling=contain&node-id=12%3A5
 
 ##### INTEGRANTES
-	Natalia Espinoza - Carolina Jarpa
+Natalia Espinoza - Carolina Jarpa
 
-####DESARROLLADO PARA: [LABORATORIA(http://laboratoria.la)]
+#### DESARROLLADO PARA: [LABORATORIA(http://laboratoria.la)]
